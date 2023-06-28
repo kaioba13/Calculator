@@ -1,2 +1,2 @@
 # Calculator
-Calculador Console C#
+Calculadora Console C#
